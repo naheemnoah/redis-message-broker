@@ -1,0 +1,5 @@
+1. Goto redis folder C:\Users\naheem.noah.APR\Documents\Files\redis
+2. Open cmd
+3. Run redis-server.exe or redis-server
+4. To access and test the server, run redis-cli.exe
+5. To check the data been sent, run redis-cli monitor
